@@ -82,14 +82,14 @@ urlpatterns = [
 <details>
 <summary><b>1. <code>http://127.0.0.1:8000/</code> - Тестовая страница</b></summary>
 
-![Тестовая страница](C:\Users\fire2\Web.Development\screenshots\lab1\Screenshot_1.png)
+![Тестовая страница](screenshots/lab1(1).png)
 
 </details>
 
 <details>
 <summary><b>2. <code>http://127.0.0.1:8000/news/test/</code> - Тестовая страница с текстом</b></summary>
 
-![Тестовая страница с текстом](C:\Users\fire2\Web.Development\screenshots\lab1\Screenshot_2.png)
+![Тестовая страница с текстом](screenshots/lab1(2).png)
 
 </details>
 
